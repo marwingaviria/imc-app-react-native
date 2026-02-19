@@ -26,6 +26,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "564186a0-e416-4616-9835-5bdb2dc2fbfd"
+      }
+    },
+    "owner": "marwinsox"
   }
 }
